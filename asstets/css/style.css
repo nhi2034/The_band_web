@@ -361,10 +361,11 @@ html{
 
 /* Footer section */
 #footer{
-    top: 0;
     padding: 1px 1px;
     text-align: center;
     width: 100%;
+    position: absolute;
+    margin-top: 1800px;
 }
 
 #footer .socials-list{
